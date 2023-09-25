@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="mavros_rc2joy" type="rc2joy.py" name="rc2joy" output="screen">
+    </node>
+</launch>
